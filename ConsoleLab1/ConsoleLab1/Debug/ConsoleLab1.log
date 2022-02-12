@@ -1,0 +1,4 @@
+﻿  ConsoleLab1.cpp
+F:\ProectVisual\Сплюс\lab1\app\ConsoleLab1\ConsoleLab1\ConsoleLab1.cpp(47,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\ProectVisual\Сплюс\lab1\app\ConsoleLab1\ConsoleLab1\ConsoleLab1.cpp(110): warning C4715: recSDP: значение возвращается не при всех путях выполнения
+  ConsoleLab1.vcxproj -> F:\ProectVisual\Сплюс\lab1\app\ConsoleLab1\Debug\ConsoleLab1.exe
